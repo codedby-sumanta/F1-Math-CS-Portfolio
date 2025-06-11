@@ -8,4 +8,4 @@
 - [Python-CS](Python-CS) – Intro to programming and data projects
 - [Differential-Equations](Differential-Equations) – MIT 18.03SC modeling
 - [Web-Design](Web-Design) – Freelance website design journey
-- [Formula1-Math](formula1-math) – F1-inspired modeling experiments
+- [Formula1-Modeling](formula1-modeling) – F1-inspired modeling experiments
